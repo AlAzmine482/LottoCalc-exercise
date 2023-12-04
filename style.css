@@ -1,0 +1,13 @@
+body {
+    text-align: center;
+  }
+
+  .btncontainer{
+    
+    width: 200px;
+    height: 200px;
+    border: 1px solid black;
+    padding: 10px;
+    margin: 0 auto;
+   
+}
